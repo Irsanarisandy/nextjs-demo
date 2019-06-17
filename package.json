@@ -9,6 +9,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
+  "devDependencies": {},
   "scripts": {
     "dev": "next",
     "build": "next build",
